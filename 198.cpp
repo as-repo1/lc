@@ -14,7 +14,7 @@ int main() {
 
         // Output for each iteration
         cout << "Iteration " << i + 1 << ": ";
-        cout << "left = " << left << ", right = " << right << endl;
+        cout << "left = " << left << ", right = " << right << ", temp = " << temp << endl;
     }
 
     // Final result
